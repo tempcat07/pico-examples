@@ -10,3 +10,5 @@ pico_add_extra_outputs(blink)
 
 # add url via pico_set_program_url
 example_auto_set_url(blink)
+
+PICO_SDK_PATH=/home/oleg/pico2040/pico-sdk
